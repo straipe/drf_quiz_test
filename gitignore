@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+.python
+django1/
+
+db.sqlite3
+.DS_Store
+
+.vscode/
